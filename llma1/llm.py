@@ -2,7 +2,7 @@ import openai
 import matplotlib.pyplot as plt
 import numpy as np
 
-openai.api_key = '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'
+openai.api_key = ''
 
 ages = [10, 30, 60]
 genders = ['Male', 'Female']
